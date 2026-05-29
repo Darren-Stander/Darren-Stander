@@ -1,5 +1,11 @@
 ## Hi there 👋
+I'm Darren, a graduate software engineer based in South Africa
 
+If an idea comes to mind, i'll build it
+
+My main tech stack is C#, Python,HTML, CShtml and MySQL
+
+Some of my favourite projects are pinned.
 <!--
 **Darren-Stander/Darren-Stander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
